@@ -1,2 +1,0 @@
-# artyom-site
-Landing page — auto-deployed
